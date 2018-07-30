@@ -1,0 +1,38 @@
+<DOCTYPE HTML>
+    <HTML>
+        <HEAD>
+            <meta charset="utf-8">
+            <title>Products</title>
+            <style>
+                .header{
+                    padding: 10px 0;
+                    position: fixed;
+                    left: 0;
+                    top: 0;
+                    right: 0;
+                    z-index: 997;
+                    background: rgba(138,144,255,0.90)
+                }
+            </style>
+        </HEAD>
+        <body>
+            <header class="header">
+           <div class="container">
+           <div class="menu">
+           <div class="menu_logo">
+               <a href="#" class="menu_logo link"><img src="img/logo.png"> </a>
+           </div>
+           <div class="menu_nav_container"></div class="container">
+            <ul class="menu_nav">
+                <li class="menu_nav item"><a href="#"class="menu-nav link">home</a></li>
+                <li class="menu_nav item"><a href="#"class="menu-nav link">about</a></li>
+                <li class="menu_nav item"><a href="#"class="menu-nav link">service</a></li>
+                <li class="menu_nav item"><a href="#"class="menu-nav link">products</a></li>
+                <li class="menu_nav item"><a href="#"class="menu-nav link">blog</a></li>
+                <li class="menu_nav item"><a href="#"class="menu-nav link">contacts</a></li>
+            </ul>
+           </div>
+        </div>
+        </header>
+        </body>
+    </HTML>
